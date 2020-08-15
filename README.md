@@ -1,5 +1,3 @@
-# Analysing-Berling-AirBnB-Rental
-An Analysis of Berling AirBnB Rentals from Kaggle
 # **An Analysis of Berling AirBnB Rentals from Kaggle**
 #### -- Project Status: [Active]
 #### Project phases:
