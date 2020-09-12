@@ -37,7 +37,11 @@ This project seeks to bring a more systematic method of determining prices of ho
 - Most reviews are 8/9/10s with a few exceptions
 - Most places are instantly bookable but not by an overwhelming majority
 - It is almost a must for hosts to have profile pictures
-- The highest property was valued at $999 (does not specify currency) 
+- The highest property was valued at $999 (does not specify currency)
+
+## Business implication
+- Businesses who are in the business of real este who want to capitalise on maximising ROA can use this tool to aid them their the decision making.
+- Persons who own property in Berlin have a tool to estimat how much their property is worth if they wanted to rent it out with airbnb 
 
 
 ## Contributing  Members
